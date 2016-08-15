@@ -8,13 +8,13 @@ title: Roadmap
 ## Alpha Milestone
 
 * **Rest API** - Prepare Rest API for the event collecting
-* **Basic Hard-coded rules** - Implement most commonly alerting rules as hard-coded strategies (no rule-definition language for now)
-* **Emails** - Integrate email notification channel
-* **Storage** - Implement `Storage` service which will be responsible for collecting and browsing alerts.
-* **Schedulers** - Implement `Scheduler`, `Rule` and `Worker` 
+* **Event Source Operator** - Implement Event Producer Operator
+* **Email Sending Sink Operator** - Integrate email notification channel
+* **Stream Definition Storage** - Implement `Storage` service which will be responsible for storing and managing stream definitions.
 
 ## Beta Milestone
 
+* **Alerting Service** - The service that will store alerts
 * **Auth** - Implement Auth that allow access control and restriction, taking a lot of the `Gitlab` concepts of groups and projects
 * **Dashboard** - Implement first basic version of Dashboard for alert querying.
 * **More Hard-coded rules** - Implement more rules to cover around 70% of the use-cases
@@ -25,7 +25,7 @@ title: Roadmap
 
 ## Live Milestone
 
-* **Rule language** - Advanced Rule-definition language 
+* **Operators** - Advanced Operators for event backpressure, mapping and collecting. 
 * **Templates** - Add rules templates
 * **Rule edition UI** - Add UI for rule definition
 * **Test button** - Add ability to test alerts
