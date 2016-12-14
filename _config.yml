@@ -4,8 +4,8 @@
 permalink:        pretty
 
 # Setup
-title:            'HayNow'
-tagline:          'HayNow Documentation'
+title:            'HeyNow'
+tagline:          'HeyNow Documentation'
 description:      'Open sourced alerting tool by Ocado Technology'
 url:              http://heynow-io.github.io
 
