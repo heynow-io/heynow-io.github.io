@@ -8,7 +8,7 @@ title: How it works
 HeyNow operates on streams. If you are already familiar with reactive programming, getting to know 
 HeyNow engine should be extremely easy. If not, please read this awesome [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754).
 
-Lets assume that our example application, call it `DeathStar`, every now and than sends to HeyNow `Event` with core temperature information.
+Lets assume that our example application, call it `DeathStar`, every now and then sends to HeyNow `Event` with core temperature information.
 
 ```json
 {
