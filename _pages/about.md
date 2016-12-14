@@ -8,4 +8,3 @@ On the surface, [Ocado.com](http://www.ocado.com/) is the world’s largest onli
 
 Look under the surface however, and you’ll unearth a dynamic technology company that has the look, feel and culture of an innovative software start-up - Ocado Technology. That’s because we develop all the software that powers Ocado in-house.
 
-//TODO
