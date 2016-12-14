@@ -44,7 +44,7 @@ coreTemperature: ---2----1--3----4--5---2-->
      alerts:     ----------------4--------->
 ```
 
-All we need to do know is to subscribe the `alerts` stream and send email when stream emits. 
+All we need to do now is to subscribe the `alerts` stream and send email when stream emits. 
 
 
 | HeyNow allows to express this flow in a simpler manner than in the examples above. When setting up new pipeline one can use diagram drawing tool to simply drag and drop appropriate operators and connect them using arrows. | ![Architecture](/images/heynow-example.png) |
