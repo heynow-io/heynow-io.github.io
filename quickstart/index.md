@@ -27,6 +27,7 @@ Remember to start docker service afterward.
 Finally you can install docker-compose. You can get it from GitHub.
 
 `curl -L "https://github.com/docker/compose/releases/download/1.8.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose`
+
 `chmod +x /usr/local/bin/docker-compose`
 
 ## Starting HeyNow
